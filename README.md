@@ -100,4 +100,4 @@ commands and restarting. WiFi connected successfully.
 ## Case Log
 | Case | Issue | Date | Status |
 |---|---|---|---|
-| 001 | WiFi not connecting after restart | May 12, 2026 | ✅ Resolved |
+| 001 | WiFi not connecting after restart | May 14, 2026 | ✅ Resolved |
